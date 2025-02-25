@@ -1,0 +1,40 @@
+
+    .center-img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 300px;
+        width: 800px;
+    }
+
+    body {
+        background-color: turquoise;
+    }
+
+    .second-center-img  {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+        height: 300px;
+        width: 800px;
+    }
+
+    .Ingredients    {
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 1000;
+        font-size: large;
+    }
+
+    .Steps  {
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 1000;
+        font-size: large;
+    }
+
+    .little {
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 1000;
+        font-size: large;
+
+    }
